@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Towhidul Alom - Portfolio</title>
+  <title>Towhidul Alom  Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
   <style>
     body {
@@ -78,7 +78,7 @@
     </div>
   </section>  <section>
     <h2>Contact</h2>
-    <p>Email: your@email.com</p>
+    <p>Email: Towhidulalomtonmoyfb@gmail.com</p>
   </section>
 </body>
 </html>
